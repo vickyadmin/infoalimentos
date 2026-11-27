@@ -3,17 +3,10 @@ PROYECTO FINAL
 
 Este proceso, realizado de manera manual, requiere de 9 horas semanales y ralentiza todo el proceso de cobranzas y de pedidos de cada uno de los clientes de la empresa, por lo que implica, no solo una pérdida económica, sino también de tiempo, tanto del empleado que tiene que dejar de lado otras tareas para responder esos mensajes, como de las cobranzas de aquellos clientes que, por no haber recibido una respuesta en tiempo y forma, demoran el pago de sus facturas o dilatan la carga de pedidos.
 
-En cuanto a dinero, un análisis de costos aproximado sería de la siguiente manera:
-
-Concepto	Situación Manual (Mensual)	Con Automatización (Mensual)	Impacto / Resultado
-Horas operativas	36 horas	4 horas (supervisión)	32 horas liberadas
-Costo operativo	$252 USD	$200 USD	$52 USD ahorrados
-Costo de errores / retrabajo	$126 USD	$0 USD	$126 USD ahorrados
-Inversión (Software + Setup)	$0 USD	$1000 USD (por única vez)	-$1000 USD
-Balance Neto Año 1	$4536 USD	$3.000 USD	$1536 USD de beneficio neto
-Balance Neto Año 2	$4536 USD	$200 USD	$4336 USD de beneficio neto
+En cuanto a dinero, un análisis de costos aproximado sería como se detalla en la imagen adjunta.
 
 Tomando en consideración que la inversión inicial se realiza por única vez, el primer año de utilización obtiene un menor beneficio que a partir del segundo, lo que justifica ampliamente la realización de automatización de este proceso, en especial por la cantidad de horas que libera para el empleado, sobre todo teniendo en cuenta que este es un proceso que se realiza a diario y, gracias a la automatización, puede incluir respuestas a mensajes fuera del horario laboral y los fines de semana y feriados.
+
 El único caso en el que no se justificaría mantener este proceso automatizado sería que se redujera sustancialmente el caudal de clientes de la empresa, pero al no tratarse de una proyección el corto ni mediano plazo, se aconseja su implementación.
 
 2. El agente principal del sistema se correrá online. Esta elección tiene que ver con la necesidad de un workflow funcional durante las 24 horas los 365 días del año y la empresa Alimentos S.A. no cuenta con un servidor que pueda mantenerse encendido durante todo ese tiempo.
