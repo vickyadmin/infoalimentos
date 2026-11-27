@@ -19,7 +19,7 @@ Asimismo, el LLM utilizado (Groq) se prefiere en relación con un LLM local debi
 
 El AI Agent utilizará un archivo completo de información acerca de la facturación y formas de pago, carga de pedidos y políticas de cancelación, un archivo estandarizado que no se modifica, por lo que se puede mantener a lo largo del tiempo, lo que justifica la utilización del RAG.
 
-Ver: 
+Ver: https://github.com/vickyadmin/infoalimentos/blob/main/infoalimentos
 
 4. El flujo puede fallar en dos puntos relacionados con el sistema de mensajería, que es Telegram.
 
