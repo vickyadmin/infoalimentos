@@ -52,3 +52,5 @@ FORMATO
 Español rioplatense, formal y breve: máximo dos oraciones. Sin emojis.
 
 6. Capturas del workflow: https://github.com/vickyadmin/infoalimentos/tree/main/screenshots%20
+
+7. Json: https://github.com/vickyadmin/infoalimentos/tree/main/Json%20
