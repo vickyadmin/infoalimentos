@@ -3,7 +3,7 @@ PROYECTO FINAL
 
 Este proceso, realizado de manera manual, requiere de 9 horas semanales y ralentiza todo el proceso de cobranzas y de pedidos de cada uno de los clientes de la empresa, por lo que implica, no solo una pérdida económica, sino también de tiempo, tanto del empleado que tiene que dejar de lado otras tareas para responder esos mensajes, como de las cobranzas de aquellos clientes que, por no haber recibido una respuesta en tiempo y forma, demoran el pago de sus facturas o dilatan la carga de pedidos.
 
-En cuanto a dinero, un análisis de costos aproximado sería como se detalla en la siguiente imagen: https://github.com/vickyadmin/infoalimentos/blob/main/cuadro%20de%20costos.jpg
+En cuanto a dinero, un análisis de costos aproximado sería como se detalla en la siguiente imagen: https://github.com/vickyadmin/infoalimentos/blob/main/Costos
 
 Tomando en consideración que la inversión inicial se realiza por única vez, el primer año de utilización obtiene un menor beneficio que a partir del segundo, lo que justifica ampliamente la realización de automatización de este proceso, en especial por la cantidad de horas que libera para el empleado, sobre todo teniendo en cuenta que este es un proceso que se realiza a diario y, gracias a la automatización, puede incluir respuestas a mensajes fuera del horario laboral y los fines de semana y feriados.
 
